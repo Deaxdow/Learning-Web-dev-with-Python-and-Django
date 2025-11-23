@@ -1,0 +1,46 @@
+Now learning starts , on Day 1 I'll learn about python Data and Data types
+
+
+1. What is Data?
+    - Data is simply any piece of information that your program works with.
+  Think of it like ingredients in cooking: just as ingredients are needed to make food, data is what makes your code actually do something useful.
+
+2. What is data type?
+    - A data type tells Python what kind of data something is and what you’re allowed to do with it.
+
+3. Python data types
+    -Numeric types (int , float)
+        - int -- Whole numbers without any decimal point, like 5, -42, or 1000.
+        - float → Numbers that have a decimal point, like 3.14, -0.5, or 99.99.
+
+    -string (single quote , double quote)
+        -Text or words wrapped in quotes, like "hello", 'Python', or "123".
+
+    -sequence (list,tuple)
+        - list -- An ordered collection where you can store multiple items and change them later, like [1, "hi", True].
+        - tuple -- Like a list, but you cannot change it after creating it, like (1, "hi", True).
+
+    -Mapping/Dictionary
+        - A collection of key-value pairs, like a real dictionary: {"name": "Alex", "age": 25}.
+
+    -Sets
+        - An unordered collection of unique items (no duplicates), like {1, 2, 3, "apple"}.
+
+    -Boolean(True,False)
+        - Only two possible values: True or False (used for yes/no or logic).
+
+    -Null data type
+        - A special type that means "no value" or "nothing", like an empty box.
+
+4.Checking Data types
+    - Using the type() function
+
+5.Mutable and Immutable Data type
+    -What is Mutable (lists,mapping,sets)
+            - Can be changed after creation
+
+    -What is Immutable (int,float,string,tuple)
+            - Cannot be changed after creation
+
+
+# Also, I added examples for each data type inside quotes so I can easily copy-paste them into another .py file, test, debug, and fully understand them.

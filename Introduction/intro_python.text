@@ -1,0 +1,45 @@
+I'm taking my first steps in Python. Here's what I need to know on Day 1
+
+1. Overview of Python
+    - Python is a high-level programming language that really shines for its simplicity.
+    - Emphasizes clean, human-readable syntax — often described as "executable pseudocode."
+    - Guido van Rossum is the creator of Python; he released it while working at CWI in 1991.
+    - It is an interpreted programming language. This means every line of code gets executed line by line.
+
+2. What's the purpose of learning Python?
+    - Simplicity
+    - High career opportunities
+    - AI/ML (TensorFlow, PyTorch, scikit-learn, etc.)
+    - Automation
+    - Data Analysis (Pandas, NumPy, Matplotlib, etc.)
+    - Mathematics
+
+3. Real-world jobs to apply for
+    - Backend web dev (Django, FastAPI, Flask)
+    - Data analyst / Data scientist
+    - Machine Learning / AI engineer
+    - DevOps & automation engineer
+    - Cybersecurity (scripting, pentesting tools)
+    - Quantitative trader / algo trading
+
+These are the introductory things I needed to know before starting Python.
+
+Now I have installed it:
+    - Downloaded the latest stable version from https://www.python.org/downloads/
+    - Installed with default recommended settings (including "Add Python to PATH")
+    - Verified with `python --version` in terminal → works perfectly
+            (If `python --version` ever fails → Python is not in PATH; beginner solution: reinstall again)
+
+
+# Also, I'm using PyCharm as my code editor because it's much more beginner-friendly for me than the other editors out there.
+
+
+
+
+
+
+
+
+
+
+
