@@ -57,6 +57,12 @@ countries = ("China","Russia","France")
 marks=(12,14,15,16) #0 ->1 ->2 ->3 ->4
                                                         
 temp =(33.4,32.4,9) #0 ->1 ->2 ->3 ->4
+
+nums = (6,13,11)
+a , b ,c = nums
+print(a,b,c)
+
+
 """
 
 
@@ -131,9 +137,9 @@ print(type(x))
 
 """
 
-
-# Immutable Data checking
 """
+# Immutable Data checking
+
 x=12
 print(id(x))
 x=53
@@ -147,12 +153,10 @@ print(id(x))      #diffrent id numbers , different memory allocation
 """
 
 countries = ["China","Russia","France"]
-print(id(countries))
-
+print(id(countries)
 
 countries[0]= ["Poland"]
 print(id(countries))                          #same id number, modified in place
-
 """
 
 
