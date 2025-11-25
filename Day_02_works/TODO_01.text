@@ -1,0 +1,76 @@
+Today I'm going to learn about Python String Data types in depth , here are the things to know 1st
+  Remove the quotes from the examples in main.py to run,debug and understand code line by line.
+  Examples are in main_01.py
+
+1.Strings
+-> Strings in Python are sequences of characters enclosed in quotes, used to represent text data.
+    -Single quote string
+    -Double quote string
+    -Triple single quote string
+    -Triple double quote string
+
+2.String Indexing
+-> String indexing refers to accessing individual characters in a string by their position
+    -Positive Indexing
+    -Negative Indexing
+
+3.String Slicing
+-> String slicing is the process of extracting a substring from a string using start and end indices.
+
+4.String concatenation
+-> String concatenation is combining two or more strings into one using the addition operator.
+
+5.String Method
+->String methods are built-in functions that perform operations on strings.
+    -String repetition
+    -Format using %
+    -uppercase
+    -lowercase
+    -Capitalize
+    -Title case
+
+6.String replacement
+-> String replacement substitutes a specified substring with another using the replace method.
+
+7.String split into list
+-> String splitting divides a string into a list of substrings based on a delimiter like spaces.
+
+
+8.String tripping
+-> removing white space: String stripping removes unwanted whitespace from strings.
+    -lstrip : Lstrip removes leading whitespace from the left side of the string.
+    -rstrip : Rstrip eliminates trailing whitespace from the right side of the string.
+    -strip  : Strip clears whitespace from both the beginning and end of the string.
+
+9.Math or Number Basic Arithmetic calculation with number
+-> Basic arithmetic involves performing calculations on numbers.
+    - Addition
+    - subtraction
+    - Multiplication
+      etc.
+
+10.Type conversion
+-> type conversion changes a value from one data type to another.
+   - float -> int
+   - int -> float
+   - str -> int
+   - str -> float
+   - float -> str
+   - int -> str
+
+11.Python Operator  Precedence
+-> Operator precedence determines the order in which operations are performed in an expression.
+     1.multiplication
+     2.Division
+     3.Modulus %
+     4.Addition +
+     5.Substraction
+
+12.Python math
+-> Python math provides functions for advanced mathematical operations via the math module.
+    -Square root
+    -Power
+    -Trigonometric Functions
+    -Logarithmic
+    -Factorial
+    -Greatest Common divisor
