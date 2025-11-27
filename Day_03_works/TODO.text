@@ -1,0 +1,71 @@
+Today I'm going to learn about Python conditionals and loops , Day-03 learning showcase is here
+        Remove the quotes from the examples in main.py to run,debug and understand code line by line.
+        Examples are in main.py
+
+
+1. What is Control FLow
+-> Control flow determines the order in which statements are executed in a program, allowing decision-making and repetition.
+
+2. Types of Condition Apply
+-> Conditional statements control execution based on whether a condition is true or false.
+     - If statements
+     - Else statements
+     - Elif statements / Ladder
+     - Nested If else
+
+3. Use Case of If else
+-> If-else is used wherever decisions are needed based on conditions.
+    - User Authentication
+    - Form Validation
+    - Payment processing
+    - Data Filtering
+    - Weather moderating
+    - Inventory Management
+    - Personalization
+
+4. What is loop?
+-> A loop repeatedly executes a block of code as long as a condition is true or for a set number of iterations.
+
+
+5. Types of loop
+
+    - for loop in python (Entry control Loop) :Checks condition before each iteration; ideal for iterating over sequences (lists, range, etc.).
+
+    - While loop  (Entry control Loop): (Entry control Loop): Repeats as long as a condition remains true; condition checked before execution.
+
+    - Do while loop (Doesn't exist in python)  (Exit control loop)
+
+
+6.Use case of Loop
+    -Data processing
+    -Reports
+    -Automating Task
+    -User Interfaces
+    -Loop over list,Map,Set
+
+
+7. Logical Operator in Python
+    - and
+    - or
+    - not
+
+
+
+8. Comparison Operators
+    - >
+    - <
+    - >=
+    - <=
+    - ==
+    - !
+
+9. Use case of operators
+    -Condition
+    -Loop
+    -Searching
+    -Sorting
+
+
+
+
+
