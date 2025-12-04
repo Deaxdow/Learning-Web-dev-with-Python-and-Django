@@ -1,0 +1,38 @@
+Today I'm going to learn about Python Data Structures: Lists, Tuples, Sets and Dictionaries in details , Day-03 learning showcase is here
+        Remove the quotes from the examples in main.py and dict.py to run,debug and understand code line by line.
+        Examples are in main.py and dict.py
+
+
+Data Structures
+-Lists (Mutable data type)
+-List Methods
+-List Use Case
+    -Storing user Data
+    -Inventory Purchase , Sales , Order
+    -Add to cart,Invoice,Dropdown
+    -User Data collection
+    -Table,list
+
+
+-Tuples(immutable data type)
+-Tuple Methods
+_-Tuple Use Case
+
+
+-Sets
+-Set methods
+-Sets Use case
+
+
+
+-Dictonary
+-Dictonary Methods
+-Dictonary Use Case
+    - Web data analysis
+    - Forms
+    - Web Engineering
+    - Rest API
+    (etc)
+
+
+
