@@ -1,0 +1,38 @@
+Today, I am going to learn about Python Functions in depth. Here are the essential concepts to master:
+Remove the quotes from the examples in main.py to run, debug, and understand the code line by line.
+
+1. What is a Function  
+    -> A function is like a mini-program inside your code. You create it once to do one specific job. It can take information (inputs), work on it, and give back a result.
+
+2. How to Write and Call Functions  
+    -> To create: Write `def` + function name + (parameters in brackets): then indent the code inside.  
+    -> To use (call): Just write the function name with values in brackets.
+
+3. Real-World Use Cases  
+    -> Reuse code (same calculation many times), break big programs into small pieces, clean data, check if input is correct, make testing easier, handle user input and output nicely.
+
+4. Functional Programming  
+    -> A style of coding where you treat functions like normal values (you can pass them around). Focus on clean functions that always give the same output for the same input, no hidden changes.
+
+5. Function Parameters  
+    -> Parameters are the inputs a function accepts.  
+        - Normal ones: given by position or by name.  
+        - Required (must give) vs Optional (has default value).  
+        - *args: accept any number of normal inputs (stored as a tuple).  
+        - **kwargs: accept any number of named inputs (stored as a dictionary).
+
+6. Function Return  
+    -> `return` is how the function gives back a result. If no `return`, it gives `None`. You can return multiple things (they become a tuple).
+
+7. Local and Global Variables  
+    -> Local variables: only exist inside the function – disappear when function ends.  
+    -> Global variables: created outside – can be seen everywhere. To change a global inside a function, add `global variable_name` first.
+
+8. Lambda (Anonymous/Inline Functions)  
+    -> A short, nameless function written in one line using `lambda`. Perfect for quick simple tasks, especially with tools like map, filter, or sort.
+
+9. Recursive Functions  
+    -> A function that calls itself to solve smaller versions of the same problem. Must have a "base case" (simple stop condition) or it will crash.
+
+10. Callback Functions  
+    -> A function you give to another function as input. The other function will call it later when something is ready (common in waiting for events or async tasks).
